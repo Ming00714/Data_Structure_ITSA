@@ -9,3 +9,5 @@ int main(int argc, char *argv[]) {
 
 	return 0;
 }
+
+// 計算梯型面積
