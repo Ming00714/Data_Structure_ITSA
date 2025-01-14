@@ -14,3 +14,5 @@ int main(){
 
     return 0;
 }
+
+// 計算i次方的值
