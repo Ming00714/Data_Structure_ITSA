@@ -2,13 +2,13 @@
 
 int main() {
     int x, y;
-    scanf("%d %d", &x, &y); // 輸入點的座標
+    scanf("%d %d", &x, &y);
 
     int r = 100; // 圓的半徑
     if (x * x + y * y <= r * r) {
-        printf("inside\n"); // 如果在圓內或圓上
+        printf("inside\n"); 
     } else {
-        printf("outside\n"); // 如果在圓外
+        printf("outside\n"); 
     }
 
     return 0;
